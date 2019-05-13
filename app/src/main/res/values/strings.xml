@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">History Quiz</string>
+    <string name="title">Five Question History </string>
+    <string name="hint">Please Enter Name</string>
+    <string name="q1">Question #1</string>
+    <string name="q2">Question #2</string>
+    <string name="q3">Question #3</string>
+    <string name="q4">Question #4</string>
+    <string name="q5">Question #5</string>
+    <string name="submit5">Submit #5 Answers</string>
+    <string name="clear5">Clear #5 Answers</string>
+    <string name="questionOne">Who was the first President?</string>
+    <string name="qOneAnswerOne">George Washington</string>
+    <string name="qOneAnswerTwo">John Kennedy</string>
+    <string name="qOneAnswerThree">Barack Obama</string>
+    <string name="qOneAnswerFour">John Adams</string>
+    <string name="hint1">Please enter a four digit year</string>
+    <string name="questionTwo">Who were the first TWO women to go into space?</string>
+    <string name="qTwoAnswerOne">Sally Ride</string>
+    <string name="qTwoAnswerTwo">Svetlana Savitskaya</string>
+    <string name="qTwoAnswerThree">Valentina Tereshkova</string>
+    <string name="qTwoAnswerFour">Peggy Whitson</string>
+    <string name="questionThree">Which company created the Java programming language?</string>
+    <string name="qThreeAnswerOne">Microsoft</string>
+    <string name="qThreeAnswerTwo">Apple</string>
+    <string name="qThreeAnswerThree">Google</string>
+    <string name="qThreeAnswerFour">Sun Microsystems</string>
+    <string name="questionFour">What was the first COMPLETE word sent over the internet?</string>
+    <string name="qFourAnswerOne">Login</string>
+    <string name="qFourAnswerTwo">Hello</string>
+    <string name="qFourAnswerThree">Banana</string>
+    <string name="qFourAnswerFour">Application</string>
+    <string name="questionFive">What year was the Android OS commercially launched?</string>
+    <string name="qFiveAnswerOne">1999</string>
+    <string name="qFiveAnswerTwo">2003</string>
+    <string name="qFiveAnswerThree">2014</string>
+    <string name="qFiveAnswerFour">2008</string>
+
+</resources>

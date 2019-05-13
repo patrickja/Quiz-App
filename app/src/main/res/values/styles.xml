@@ -1,0 +1,89 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:background">@color/backgroundColor</item>
+    </style>
+
+    <!-- Header Text Style. -->
+    <style name="HeaderTextStyle" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/header_text_large</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/questionNumberColor</item>
+    </style>
+
+    <!-- Question Text Style. -->
+    <style name="QuestionTextStyle" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:layout_marginRight">@dimen/padding_eight</item>
+        <item name="android:paddingTop">@dimen/padding_ten</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/questionColor</item>
+    </style>
+
+    <!-- Answer Text Style. -->
+    <style name="AnswerTextStyle" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/answerColor</item>
+    </style>
+
+    <!-- Submit Button Text Style. -->
+    <style name="ButtonTextStyleLeft" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_marginTop">@dimen/padding_twentyfive</item>
+        <item name="android:layout_marginLeft">@dimen/padding_twenty</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@color/buttonBackgroundColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+    </style>
+
+    <!-- Clear Button Text Style. -->
+    <style name="ButtonTextStyleRight" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/button_text</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_marginTop">@dimen/padding_twentyfive</item>
+        <item name="android:layout_marginRight">@dimen/padding_twenty</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@color/buttonBackgroundColor</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+    </style>
+
+    <!-- Title Text Style. -->
+    <style name="TitleTextStyle" >
+        <!-- Customize your theme here. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/header_text_small</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:background">@color/titleColor</item>
+        <item name="android:textColor">@color/titleTextColor</item>
+    </style>
+
+
+</resources>

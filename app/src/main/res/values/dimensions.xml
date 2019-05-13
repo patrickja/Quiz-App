@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_text">15sp</dimen>
+    <dimen name="header_text_small">25sp</dimen>
+    <dimen name="header_text_large">48sp</dimen>
+    <dimen name="padding_zero">0dp</dimen>
+    <dimen name="padding_four">4dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_eight">8dp</dimen>
+    <dimen name="padding_ten">10dp</dimen>
+    <dimen name="padding_sixteen">16dp</dimen>
+    <dimen name="padding_twenty">20dp</dimen>
+    <dimen name="padding_twentyfive">25dp</dimen>
+    <dimen name="padding_sixteen_text">16sp</dimen>
+
+</resources>
